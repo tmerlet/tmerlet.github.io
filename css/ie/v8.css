@@ -1,0 +1,96 @@
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+	/* Buttons */
+
+		.button
+		{
+			position: relative;
+			-ms-behavior: url('css/ie/PIE.htc');
+		}
+
+	/* Lists */
+
+		ul.style3 .date
+		{
+		}
+	
+			ul.style3 .date
+			{
+				position: relative;
+				-ms-behavior: url('css/ie/PIE.htc');
+			}
+
+	/* Forms */
+
+		form
+		{
+		}
+		
+			form input[type=text],
+			form input[type=password],
+			form select,
+			form textarea
+			{
+				position: relative;
+				-ms-behavior: url('css/ie/PIE.htc');
+			}
+			
+/*********************************************************************************/
+/* Nav                                                                           */
+/*********************************************************************************/
+
+	#nav
+	{
+	}
+
+		#nav li.active a
+		{
+		}
+
+			#nav li.active a
+			{
+				position: relative;
+				-ms-behavior: url('css/ie/PIE.htc');
+			}
+			
+	.dropotron
+	{
+		-ms-behavior: url('css/ie/PIE.htc');
+	}
+
+		.dropotron a,
+		.dropotron span
+		{
+			border-top: none;
+		}
+
+	.dropotron-level-0
+	{
+	}
+
+		.dropotron-level-0:before
+		{
+			display: none;
+		}
+		
+/*********************************************************************************/
+/* Main                                                                          */
+/*********************************************************************************/
+
+	.homepage #main .container
+	{
+	}
+	
+	#main .container
+	{
+		position: relative;
+		-ms-behavior: url('css/ie/PIE.htc');
+	}
+
+	#main img
+	{
+		position: relative;
+		-ms-behavior: url('css/ie/PIE.htc');
+	}

@@ -1,0 +1,10 @@
+Tahoma: A Microsoft Font
+
+This font is included with all major operating systems, including almost all versions of Microsoft Windows
+and Apple's Mac OS X. If you're using one of these operating systems, you already have this font installed
+and no further action is necessary on your part to make use of it.
+
+If you're using a Unix-like or Unix-variant operating system like Linux or BSD, a metric-compatible replacement
+font is included with Wine:
+
+http://www.winehq.org/

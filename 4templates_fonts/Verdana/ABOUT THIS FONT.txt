@@ -1,0 +1,10 @@
+Verdana: A Microsoft Core Font
+
+This font is included with all major operating systems, including almost all versions of Microsoft Windows
+and Apple's Mac OS X. If you're using one of these operating systems, you already have this font installed
+and no further action is necessary on your part to make use of it.
+
+However, if you're using a different operating system, you can obtain it as part of the free Microsoft
+Core Fonts for the Web package, located here:
+
+http://sourceforge.net/projects/corefonts/
