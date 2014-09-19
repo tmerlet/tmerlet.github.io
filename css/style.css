@@ -326,7 +326,7 @@
 				margin: 0em 1.5em 0em 0em;
 				padding: 10px 0em 0em 0em;
 				border-radius: 50%;
-				background: #65bae9;
+				background: #6bc5ce;
 				line-height: normal;
 				text-align: center;
 				font-size: 0.7em;
@@ -655,7 +655,7 @@
 			padding: 0.25em 1.5em 0.25em 1.5em;
 			border: 0;
 			border-radius: 6px;
-			background: #65bae9;
+			background: #6bc5ce;
 			text-align: center;
 			text-decoration: none;
 			font-weight: 700;
@@ -1149,7 +1149,7 @@
 
 			#nav li.active a
 			{
-				background: #65bae9;
+				background: #6bc5ce;
 				border-radius: 6px;
 				color: #FFF;
 				font-weight: 700;
@@ -1166,7 +1166,7 @@
 		text-align: left;
 		line-height: 2em;
 		min-width: 12em;
-		background: #65bae9;
+		background: #6bc5ce;
 		line-height: 1em;
 		padding: 0.85em 0 0.85em 0;
 		border-radius: 6px;
@@ -1224,7 +1224,7 @@
 			margin-left: -0.65em;
 			width: 1.3em;
 			height: 1.3em;
-			border-bottom: solid 0.8em #65bae9;
+			border-bottom: solid 0.8em #6bc5ce;
 			border-left: solid 0.8em rgba(0,0,0,0);
 			border-right: solid 0.8em rgba(0,0,0,0);
 		}
@@ -1377,7 +1377,7 @@
 	#featured
 	{
 		position: relative;
-		background: #71b6db;
+		background: #db925e;
 		text-align: center;
 		color: #FFF;
 	}
@@ -1385,7 +1385,7 @@
 	#featured .container
 	{
 		padding: 4em 2em;
-		background: #7dc8ef;
+		background: #f1a267;
 	}
 	
 	#featured h3
@@ -1415,7 +1415,7 @@
 	{
 		margin-top: 1em;
 		background: #FFF;
-		color: #71b6db;
+		color: #db925e;
 	}
 
 /*********************************************************************************/
@@ -1452,21 +1452,21 @@
 
 		.wrapper-style1
 		{
-			background: #54aada;
+			background: #5ab5be;
 		}
 		
 		.wrapper-style1 .container
 		{
-			background: #65bae9;
+			background: #6bc5ce;
 		}
 
 
 		.wrapper-style2
 		{
-			background: #3d84ae;
+			background: #5d7a82;
 		}
 		
 		.wrapper-style2 .container
 		{
-			background: #4694c0;
+			background: #698991;
 		}
