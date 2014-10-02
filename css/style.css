@@ -668,20 +668,32 @@
 			transition: background-color 0.25s ease-in-out, color 0.25s ease-in-out;
 		}
 
-			.button:hover
-			{
-				background: #74bcdd;
-			}
 
-			.button.alt
-			{
-				background: #4D4F5A;
-			}
 
-				.button.alt:hover
-				{
-					background: #5D5F6A;
-				}
+		.button:hover
+		{
+			background: #74bcdd;
+		}
+
+		.button.alt
+		{
+			background: #4D4F5A;
+		}
+
+		.button.alt:hover
+		{
+			background: #5D5F6A;
+		}
+
+    .button.red
+    {
+    	background: red;
+    }
+
+		.button.red:hover
+		{
+			background: black;
+		}			
 
 /*********************************************************************************/
 /* Icons                                                                         */
