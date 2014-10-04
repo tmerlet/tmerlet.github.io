@@ -693,7 +693,20 @@
 		.button.red:hover
 		{
 			background: black;
-		}			
+		}
+
+		.button.darkstripe
+		{
+			background: #698991;
+		}
+
+		.button.darkstripe:hover
+		{
+			background: ;			
+		}
+
+
+
 
 /*********************************************************************************/
 /* Icons                                                                         */
